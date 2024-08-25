@@ -9,7 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.19.2",
+    "joi": "^13.7.0",
     "mongoose": "^8.5.2",
+    "morgan": "^1.10.0",
+    "node": "^22.6.0",
+    "nodemon": "^3.1.4",
     "underscore": "^1.13.7"
   }
 }
